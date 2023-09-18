@@ -1,4 +1,8 @@
-# Smart_Battery_Interface
+# Smart_Battery_Interface     
+
+blend of smart battery interface and https://github.com/vagueDirector/ArduinoXiaoxiangSmartBMSDisplay in order to interface ardupilot with a serial BMS.
+
+
  Implimentation of the SBS Protocol for Arduino
  
  This repository implements the functions of the SBS-protocol used by Ardupilot. 
